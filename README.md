@@ -1,5 +1,5 @@
 # Personal Portfolio
 
-![Screenshot](assets\portfolio.PNG)
+![Screenshot](https://github.com/user-attachments/assets\portfolio.PNG)
 
 
